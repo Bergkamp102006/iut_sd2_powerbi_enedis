@@ -37,10 +37,12 @@ Nos sources :
   
   -Exemple maquette Figma : DataPharma
 
-# Lien POWER BI : https://app.powerbi.com/links/m5LkVufUFB?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
+# Lien POWER BI :
+https://app.powerbi.com/links/m5LkVufUFB?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
 
 
-# Maquette Figma : https://www.figma.com/design/SQTDi0YeaCO2qtKXRLOUsD/DPE_Muriel_Mesmin?node-id=0-1&t=UZST3irPMjIhyobB-1
+# Maquette Figma : 
+https://www.figma.com/design/SQTDi0YeaCO2qtKXRLOUsD/DPE_Muriel_Mesmin?node-id=0-1&t=UZST3irPMjIhyobB-1
 
 # Lien vidéo youtube :
 
