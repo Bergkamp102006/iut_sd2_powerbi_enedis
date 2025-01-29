@@ -29,7 +29,7 @@ Les données recueillies en fichier csv sur le site de l'ADEME ont été traité
 
 Nos sources :
 
-  -Contxte de l'étude : https://defis.data.gouv.fr/defis/65b76f15d7874915c8e41298
+  -Contexte de l'étude : https://defis.data.gouv.fr/defis/65b76f15d7874915c8e41298
   
   -API des logements neufs : https://data.ademe.fr/datasets/dpe-v2-logements-neufs/api-doc
   
